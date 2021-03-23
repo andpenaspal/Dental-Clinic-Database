@@ -5,7 +5,7 @@
 ##### Version: 1.0 (Jun 2020)
 
 ## Summary
-Design of a Database to manage appointments and payments for a Dental Clinic.
+Design of a Database to manage appointments and payments for a Dental Clinic. A set of Triggers enforce business rules.
 
 ## Languages
 SQL
@@ -17,9 +17,14 @@ Order to import:
 3. PopulateDataBaseAndViews (Optional)
 
 ## Special Features
+Triggers enforcing business rules
+
 "PopulateDataBaseAndViews" offers a mock population of the database to allow the user to see an example of how it works.
 
 ERD available.
+
+## License
+MIT License. See "LICENSE" for further information.
 
 ## Contact Information
 G00376379@gmit.ie
