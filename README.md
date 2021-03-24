@@ -5,7 +5,7 @@
 ##### Version: 1.0 (Jun 2020)
 
 ## Summary
-Design of a Database to manage appointments and payments for a Dental Clinic. A set of Triggers enforce business rules.
+Design and implementation of a MySQL Database to manage appointments and payments for a Dental Clinic. A set of Triggers enforce business rules.
 
 ## Languages
 SQL
